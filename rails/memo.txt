@@ -1,0 +1,2 @@
+1. `rails new demo_app`
+2. 
